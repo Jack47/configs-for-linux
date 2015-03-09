@@ -15,7 +15,7 @@ hardstatus alwayslastline
 hardstatus string "%{= kG}%-w%{.cW}%n %t%{-}%+w %=%{= kG} %H %{..Y} %Y/%m/%d %c:%s "
 
 shelltitle "$ |sh"
-#sessionname "di.zhangd"
+#sessionname "yoursessionname"
 
 # all termcap entries are now duplicated as terminfo entries.
 # only difference should be the slightly modified syntax, and check for
